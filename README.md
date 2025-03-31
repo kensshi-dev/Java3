@@ -57,7 +57,7 @@ Demonstrates:
 
 ### **1. Creating a Valid Date**  
 ```java
-Date today = new Date(15, 10, 2023); // October 15, 2023
+Date today = new Date(15, 10, 2023); 
 if (today.isValidDate()) {
     System.out.println("Date is valid!");
 }
@@ -65,7 +65,7 @@ if (today.isValidDate()) {
 
 ### **2. Calculating Day of the Week**  
 ```java
-System.out.println(today.getDayOfWeek()); // Output: "Sunday"
+System.out.println(today.getDayOfWeek()); 
 ```
 
 ---
