@@ -72,8 +72,7 @@ System.out.println(today.getDayOfWeek());
 
 ## **Repository Structure**  
 ```
-java-date-class/  
-├── Date.java          # Date class implementation  
+java-date-class/   
 ├── Main.java          # Demo program  
 └── README.md          # This file  
 ```
